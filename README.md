@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+[![MasterHead align="center"](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 <h1 align="center">Hi 👋, I'm Dimitar Vachev</h1>
 <h3 align="center">I am a passionate newbie programmer from Bulgaria.</h3>
 <img align="right" alt="Coding" width="400" src= "https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
