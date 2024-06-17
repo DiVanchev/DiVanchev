@@ -37,8 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divanchev&show_icons=true&locale=en" alt="divanchev" /></p><br>
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p><br>
 
 <h3 align="left">How you can support me:</h3>
 
-<p><a href="https://www.buymeacoffee.com/divanchev"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divanchev" /></a></p>
+<p><a href="https://www.buymeacoffee.com/divanchev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divanchev" /></a></p>
