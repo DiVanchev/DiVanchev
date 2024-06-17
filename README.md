@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=divanchev&show_icons=true&locale=en" alt="divanchev" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p><br><br>
 
-<p><a href="https://www.buymeacoffee.com/divanchev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divanchev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/divanchev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divanchev" /></a></p>
