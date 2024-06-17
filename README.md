@@ -35,9 +35,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divanchev&show_icons=true&locale=en&layout=compact" alt="divanchev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divanchev&show_icons=true&locale=en" alt="divanchev" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divanchev&show_icons=true&locale=en" alt="divanchev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanchev&" alt="divanchev" /></p>
 
 <h3 align="left">How you can support me:</h3>
 
