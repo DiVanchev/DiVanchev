@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Dimitar Vachev</h1>
-<h3 align="center">💻I am currently in my fourth year, first semester as a Computer Science student.⌨🖱 
+<h3 align="center">💻I am currently in my fourth year, second semester as a Computer Science student.⌨🖱 
                    <br><br>I find myself to be a dedicated student at VTU with a passion for evolving into a successful and well-rounded programmer. 
                    <br>As I navigate the complexities of academia, my journey is marked by a versatile approach to both programming and non-programming challenges. 
                    <br>While mathematics may not be my strongest suit, I view it as an integral part of our development as software engineers. 
